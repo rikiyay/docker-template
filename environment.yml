@@ -4,16 +4,16 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - scipy
-  - numpy
-  - matplotlib
-  - pandas
-  - scikit-learn
-  - scikit-image
-  - statsmodels
-  - seaborn
   - jupyter
   - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
   - pytorch
-  - torchvision
+  - scikit-learn
+  - scikit-image
+  - scipy
+  - seaborn
+  - statsmodels
   - torchaudio
+  - torchvision
