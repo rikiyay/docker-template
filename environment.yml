@@ -1,0 +1,19 @@
+name: base
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - scipy
+  - numpy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - scikit-image
+  - statsmodels
+  - seaborn
+  - jupyter
+  - jupyterlab
+  - pytorch
+  - torchvision
+  - torchaudio
